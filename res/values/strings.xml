@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SoundingBoard!</string>
+    <string name="app_name">Sounding Board</string>
+    <string name="accept">Accept</string>
+    <string name="empty"></string>
+    <string name="save_or_load">Save/Load</string>
+    <string name="SoundBoard">SoundBoard</string>
+
+</resources>
